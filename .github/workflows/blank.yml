@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tesla's Dream</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+            color: #333;
+        }
+        header {
+            background-color: #007bff;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        h1 {
+            margin-top: 0;
+        }
+        section {
+            padding: 20px;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Tesla's Dream</h1>
+</header>
+
+<section>
+    <h2>Nikola Tesla</h2>
+    <p>Nikola Tesla è stato un inventore, ingegnere e fisico serbo-americano, noto soprattutto per le sue innovazioni nel campo dell'elettricità e del magnetismo.</p>
+    <p>Qui troverai informazioni dettagliate su Nikola Tesla e le sue incredibili invenzioni.</p>
+    <h3>Biografia</h3>
+    <p>Nikola Tesla è nato il 10 luglio 1856 a Smiljan, nell'Impero austriaco, oggi in Croazia. Ha emigrato negli Stati Uniti nel 1884 e ha lavorato con Thomas Edison prima di stabilirsi da solo.</p>
+    <h3>Invenzioni Principali</h3>
+    <ul>
+        <li>Alternating Current (AC)</li>
+        <li>Bobina di Tesla</li>
+        <li>Trasmissione senza fili dell'energia elettrica</li>
+        <li>Induzione elettromagnetica</li>
+        <li>Risonanza</li>
+    </ul>
+    <h3>Contributi</h3>
+    <p>Nikola Tesla ha contribuito in modo significativo allo sviluppo della tecnologia moderna, soprattutto nel campo dell'elettricità e della trasmissione dell'energia.</p>
+</section>
+
+<footer>
+    <p>&copy; 2024 Francesco Barberio - Tesla's Dream</p>
+</footer>
+
+</body>
+</html>
